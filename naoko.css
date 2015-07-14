@@ -1,14 +1,17 @@
- body {
+body {
   font-size: 16px;
  }
  
+#pagebody {
+  width: 1000px; margin:0 auto;
+ }
 
 #header_photo {
   padding: 20px 0;
  }
 
 #header_photo img {
-  max-width: 1000px;
+  max-width: 800px;
   border: 5px solid #fff;
   border-radius: 100%;
 }
