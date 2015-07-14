@@ -8,6 +8,7 @@ body {
 
 #header_photo {
   padding: 20px 0;
+  text-align: center;
  }
 
 #header_photo img {
@@ -16,9 +17,7 @@ body {
   border-radius: 100%;
 }
 
-h1 {
-    text-align: center;
-}
+
 h3 {
     color: green;
 }
